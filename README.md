@@ -1,7 +1,7 @@
 <h1 align='center'>Beer Case Study <h1>
 
 
-![image](https://i.pinimg.com/originals/2d/87/72/2d8772614fd293ceaf2c89213f16124b.gif)
+
 
 <h2>Introduction</h2>
 
